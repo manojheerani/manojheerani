@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @manojheerani
 - 👀 I’m interested in Data Analyst and Data Science 
-- 🌱 I’m currently learning Data Analyst
+- 🌱 I’m currently Data Analyst
 - 💞️ I’m looking to collaborate on Ms Team 
 - 📫 How to reach me manojsham.sw18@muetkhp.edu.pk
 
